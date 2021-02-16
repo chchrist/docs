@@ -104,6 +104,8 @@
 ** link:https://github.com/dfinity/linkedup[LinkedUp]
 //** link:https://github.com/dfinity/cancan[CanCan]//
 
+.xref:ic-spec:index.adoc[{IC} Interface specifications]
+
 .xref:release-notes:sdk-release-notes.adoc[Release notes]
 ** xref:release-notes:0.6.23-rn.adoc[0.6.23]
 ** xref:release-notes:0.6.22-rn.adoc[0.6.22]
