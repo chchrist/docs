@@ -46,6 +46,7 @@
 ** xref:candid-guide:candid-types.adoc[Candid supported types]
 ** xref:developers-guide:lang-service-ide.adoc[Language server protocol client]
 ** xref:developers-guide:glossary.adoc[Glossary]
+//** xref:ic-spec:index.adoc[Interface specification]
 
 .xref:languages:languages-overview.adoc[Languages]
 * xref:candid-guide:candid-intro.adoc[Candid]
@@ -104,16 +105,14 @@
 ** link:https://github.com/dfinity/linkedup[LinkedUp]
 //** link:https://github.com/dfinity/cancan[CanCan]//
 
-.xref:ic-spec:index.adoc[Interface specification]
-////
-** xref:ic-spec:about-the-spec.adoc[About the specification]
-** xref:ic-spec:intro-canisters.adoc[Introduction to key interfaces]
-** xref:ic-spec:index.adoc[{IC} external interfaces]
-////
-
 .xref:release-notes:sdk-release-notes.adoc[Release notes]
 ** xref:release-notes:0.6.23-rn.adoc[0.6.23]
 ** xref:release-notes:0.6.22-rn.adoc[0.6.22]
 ** xref:release-notes:0.6.21-rn.adoc[0.6.21]
 ** xref:release-notes:0.6.20-rn.adoc[0.6.20]
 ** link:https://github.com/dfinity/sdk/releases[Release history]
+
+.xref:ic-spec:index.adoc[Interface specification]
+** xref:ic-spec:about-the-spec.adoc[About the specification]
+//** xref:ic-spec:intro-canisters.adoc[Introduction to key interfaces]
+//** xref:ic-spec:index.adoc[{IC} external interfaces]
