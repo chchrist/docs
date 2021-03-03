@@ -115,4 +115,4 @@
 .xref:interface-spec:index.adoc[Interface specification]
 //** xref:ic-spec:about-the-spec.adoc[About the specification]
 //** xref:ic-spec:intro-canisters.adoc[Introduction to key interfaces]
-** xref:interface-spec:index.adoc[{IC} external interfaces]
+** xref:interface-spec:index.adoc[External interfaces]
